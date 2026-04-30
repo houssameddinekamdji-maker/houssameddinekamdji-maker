@@ -47,10 +47,42 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 ### 🛠️ Tech Stack:
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=html" />
 </p>
 
-<!-- Python logo (extra highlight) -->
+<p>
+<img src="https://skillicons.dev/icons?i=css" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=js" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+<!-- Python logo -->
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="70px"/>
 </p>
