@@ -57,6 +57,7 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,linux" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="48px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="48px" />
 </p>
 
 ---
