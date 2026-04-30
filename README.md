@@ -46,17 +46,23 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 ### 🛠️ Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python,git,github,linux" />
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60px" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="48px" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,linux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60px" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="48px" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats:
 
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
