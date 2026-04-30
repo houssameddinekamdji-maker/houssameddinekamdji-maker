@@ -39,44 +39,22 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 ### 📫 Contact Me:
 
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN)  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN) | 📧 Email: YOUR_EMAIL  
 
 ---
 
 ### 🛠️ Tech Stack:
 
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=js" />
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<img src="https://skillicons.dev/icons?i=cpp" />
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<!-- Python logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="70px"/>
-
-<!-- Kali Linux logo -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="48px"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python,git,github,linux" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60px" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="48px" />  
 
 ---
 
 ### 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />  
 
 ---
 
