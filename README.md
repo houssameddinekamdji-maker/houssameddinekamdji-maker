@@ -10,7 +10,7 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 - 🎓 AI Student  
 - 🌐 Web Developer (Frontend)  
-- 💻 Skilled in **HTML, CSS, JavaScript, React**  
+- 💻 Skilled in **HTML, CSS, JavaScript, React, Python 🐍 (I know Python well)**  
 - 🔧 Experienced with **Git & GitHub**  
 - 🐉 Currently learning **Kali Linux tools & basic hacking concepts**  
 - 🔐 Interested in **Cybersecurity & AI integration**  
@@ -25,6 +25,7 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 - 💻 Exploring **Penetration Testing & Ethical Hacking**  
 - 🐉 Practicing **Kali Linux tools (beginner level)**  
 - 🤖 Improving my skills in **Artificial Intelligence**  
+- 🐍 Strengthening and applying **Python programming**  
 
 ---
 
@@ -46,7 +47,16 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 ### 🛠️ Tech Stack:
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python,git,github,linux" />
+</p>
+
+<!-- Python logo (extra highlight) -->
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="70px"/>
+</p>
+
+<!-- Kali Linux logo -->
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" height="48px"/>
 </p>
 
