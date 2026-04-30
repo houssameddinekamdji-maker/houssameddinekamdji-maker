@@ -39,8 +39,15 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 ### 📫 Contact Me:
 
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN)  
-- 📧 Email: YOUR_EMAIL  
+<p>
+  <a href="https://www.linkedin.com/in/Houssam Kamdji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:housssameddine.kamdji@ensia.edu.dz">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
