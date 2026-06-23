@@ -37,6 +37,16 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 ---
 
+### 🏆 Certifications
+
+#### 📜 ETCODE Certificate of Participation
+
+<a href="./ETCODE_certification.pdf">
+  <img src="./ETCODE_certificate.png" width="700">
+</a>
+
+---
+
 ### 📫 Contact Me:
 
 <p>
@@ -65,28 +75,13 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 ### 📊 GitHub Stats:
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=houssameddinekamdji-maker&show_icons=true&theme=tokyonight" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssameddinekamdji-maker&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ⭐️ From Houssam Eddine Kamdji
-
-<!--
-**houssameddinekamdji-maker/houssameddinekamdji-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
