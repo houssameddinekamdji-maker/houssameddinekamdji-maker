@@ -1,13 +1,10 @@
 ## Hey 👋, I'm Houssam Eddine Kamdji  
-
 ### 🎓 AI Student | 🌐 Web Developer  
-
 Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, aiming to become a professional in both fields and combine them to build smarter and more secure systems 🚀  
 
 ---
 
 ### 🧐 About Me:
-
 - 🎓 AI Student  
 - 🌐 Web Developer (Frontend)  
 - 💻 Skilled in **HTML, CSS, JavaScript, React, Python 🐍 (I know Python well)**  
@@ -20,7 +17,6 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 ---
 
 ### 🔥 What I'm Working On:
-
 - 🔐 Learning **Cybersecurity**  
 - 💻 Exploring **Penetration Testing & Ethical Hacking**  
 - 🐉 Practicing **Kali Linux tools (beginner level)**  
@@ -29,29 +25,21 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 ---
 
-### 🚀 Goals:
-
-- 🛡️ Become a **Cybersecurity Professional**  
-- 🤖 Become an expert in **Artificial Intelligence**  
-- 🔗 Combine **AI with Cybersecurity**  
-
----
-
 ### 🏆 Certifications
 
 #### 📜 ETCODE Certificate of Participation
 
-<img src="./ETCODE_certificate.png" width="700" alt="ETCODE Certificate">
+<a href="./ETCODE%20certefication%20of%20participation.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Certificate-ETCODE-yellow?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
 
 ---
 
 ### 📫 Contact Me:
-
 <p>
   <a href="https://www.linkedin.com/in/Houssam Kamdji" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="mailto:housssameddine.kamdji@ensia.edu.dz">
     <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -60,7 +48,6 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 ---
 
 ### 🛠️ Tech Stack:
-
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,git,github,linux" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60px" />
@@ -71,15 +58,12 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 ---
 
 ### 📊 GitHub Stats:
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=houssameddinekamdji-maker&show_icons=true&theme=tokyonight" />
 </p>
-
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssameddinekamdji-maker&layout=compact&theme=tokyonight" />
 </p>
 
 ---
-
 ⭐️ From Houssam Eddine Kamdji
