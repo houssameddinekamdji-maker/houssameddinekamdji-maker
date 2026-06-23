@@ -41,9 +41,7 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 #### 📜 ETCODE Certificate of Participation
 
-<a href="./ETCODE_certification.pdf">
-  <img src="./ETCODE_certificate.png" width="700">
-</a>
+<img src="./ETCODE_certificate.png" width="700" alt="ETCODE Certificate">
 
 ---
 
