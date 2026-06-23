@@ -29,9 +29,7 @@ Passionate about **Artificial Intelligence 🤖** and **Cybersecurity 🔐**, ai
 
 #### 📜 ETCODE Certificate of Participation
 
-<a href="./ETCODE%20certefication%20of%20participation.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Certificate-ETCODE-yellow?style=for-the-badge&logo=adobeacrobatreader" />
-</a>
+<img src="./Screenshot%202026-06-23%20232433.png" width="700" alt="ETCODE Certificate">
 
 ---
 
